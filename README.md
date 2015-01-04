@@ -3,7 +3,13 @@ phant-post
 
 Python script for posting a random number to Sparkfun's 'phant' service; html code for plotting the resultant data.
 
-I followed the instructions here to create a new data stream on the phant service -- which yields a 'public' and 'private' key:
+Sparkfun's 'phant' is open source and based on Node.js:
+
+http://phant.io/
+
+https://github.com/sparkfun/phant
+
+To test phant out, I followed the instructions here to create a new data stream on the phant service -- which yields a 'public' and 'private' key:
 
 https://learn.sparkfun.com/tutorials/pushing-data-to-datasparkfuncom/introduction
 
